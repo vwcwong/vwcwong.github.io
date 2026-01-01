@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Graduate of applied mathematics and computer science from UNSW.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vwong.dev" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: V-Wong
+github_username: vwcwong
 linkedin_username: vincent-wc-wong
 google_analytics: UA-164616925-1
 
