@@ -1,0 +1,39 @@
+// =============================================================================
+// Code Styles
+// Code blocks and syntax highlighting
+// =============================================================================
+
+pre,
+code {
+    background-color: var(--code-bg) !important;
+    border-color: var(--code-border) !important;
+    color: var(--text-color);
+}
+
+// Syntax highlighting (Rouge)
+.highlighter-rouge {
+    .highlight {
+        background-color: var(--code-bg) !important;
+    }
+}
+
+.highlight {
+    background-color: var(--code-bg) !important;
+    
+    pre {
+        background-color: var(--code-bg) !important;
+    }
+    
+    code {
+        background-color: transparent !important;
+    }
+}
+
+// Inline code
+code.highlighter-rouge {
+    background-color: var(--code-bg) !important;
+    border: 1px solid var(--code-border);
+    border-radius: 3px;
+    padding: 2px 5px;
+}
+

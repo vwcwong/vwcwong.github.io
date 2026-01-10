@@ -1,0 +1,17 @@
+// =============================================================================
+// Content Styles
+// Post and page content
+// =============================================================================
+
+.post-meta {
+    color: var(--text-color-muted);
+}
+
+.post-link {
+    color: var(--heading-color);
+
+    &:hover {
+        color: var(--link-color);
+    }
+}
+

@@ -1,0 +1,30 @@
+// =============================================================================
+// Header Styles
+// Site header and navigation
+// =============================================================================
+
+.site-header {
+    background-color: var(--bg-color);
+    border-top-color: var(--header-border);
+    border-bottom-color: var(--border-color);
+}
+
+.site-title,
+.site-title:visited {
+    color: var(--heading-color);
+}
+
+.site-nav {
+    background-color: var(--bg-color);
+    border-color: var(--border-color);
+
+    .page-link {
+        color: var(--text-color);
+    }
+
+    @media screen and (max-width: 600px) {
+        background-color: var(--bg-color);
+        border-color: var(--border-color);
+    }
+}
+

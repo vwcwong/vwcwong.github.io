@@ -1,0 +1,30 @@
+// =============================================================================
+// Component Styles
+// Tables, blockquotes, and other components
+// =============================================================================
+
+// Blockquotes
+blockquote {
+    color: var(--blockquote-color);
+    border-left-color: var(--blockquote-border);
+}
+
+// Tables
+table {
+    border-color: var(--border-color);
+    color: var(--text-color);
+
+    th {
+        background-color: var(--table-header-bg);
+        border-color: var(--border-color);
+    }
+
+    td {
+        border-color: var(--border-color);
+    }
+
+    tr:nth-child(even) {
+        background-color: var(--table-stripe-bg);
+    }
+}
+

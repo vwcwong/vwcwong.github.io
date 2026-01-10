@@ -1,0 +1,40 @@
+// =============================================================================
+// Footer Styles
+// Site footer and social links
+// =============================================================================
+
+.site-footer {
+    background-color: var(--footer-bg);
+    border-top-color: var(--border-color);
+}
+
+.footer-heading {
+    color: var(--heading-color);
+}
+
+.contact-list,
+.social-media-list {
+    a {
+        color: var(--text-color-muted);
+
+        &:hover {
+            color: var(--link-color);
+        }
+    }
+}
+
+.footer-col-wrapper {
+    color: var(--text-color-muted);
+}
+
+// Footer column widths
+@media screen and (min-width: 800px) {
+    .footer-col-1 {
+        width: calc(30% - (30px / 2));
+    }
+
+    .footer-col-2 {
+        width: calc(25% - (30px / 2));
+    }
+}
+
