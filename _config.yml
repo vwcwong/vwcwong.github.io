@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vwong.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: vwcwong
 linkedin_username: vincent-wc-wong
-google_analytics: UA-164616925-1
+google_analytics_4: G-49S85TDJS0
 
 # Build settings
 markdown: kramdown
