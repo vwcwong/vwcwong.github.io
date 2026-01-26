@@ -12,8 +12,8 @@ I'm a software engineer at [Atlassian](https://www.atlassian.com/) in Sydney, Au
 My detailed work history can be found on my [resume](https://vwong.dev/attachments/resume.pdf).
 
 Outside of work, I have worked on projects in a variety of languages including:
-- Rust: [CubeSimRS](https://github.com/V-Wong/CubeSimRS), [ToyWebRS](https://github.com/V-Wong/toywebrs), and [Relational Algebra Evaluator](https://github.com/V-Wong/ra-evaluator).
-- Python: [CubeSimPy](https://github.com/V-Wong/CubeSim) and [LZ78 Encoder](https://github.com/V-Wong/MATH3411/blob/master/LZ78.py).
-- JavaScript/TypeScript: [Huffman Encoding Visualiser](https://vwong.dev/Huffman-Encoding/) and [LinkUp Events](https://linkupevents.com/).
+- Rust: [CubeSimRS](https://github.com/vwcwong/CubeSimRS), [ToyWebRS](https://github.com/vwcwong/toywebrs), and [Relational Algebra Evaluator](https://github.com/vwcwong/ra-evaluator).
+- Python: [CubeSimPy](https://github.com/vwcwong/CubeSim) and [LZ78 Encoder](https://github.com/vwcwong/MATH3411/blob/master/LZ78.py).
+- JavaScript/TypeScript: [Huffman Visualiser](https://vwong.dev/Huffman-Encoding/), [LinkUp Events](https://linkupevents.com/), and [Canto Toolbox](https://github.com/vwcwong/canto-toolbox).
 
 When not coding, I like to [speedcube](https://www.worldcubeassociation.org/persons/2014WONG08) and have held [national championship podiums](https://www.worldcubeassociation.org/persons/2014WONG08?tab=championship-podiums).
