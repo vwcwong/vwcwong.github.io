@@ -14,6 +14,6 @@ My detailed work history can be found on my [resume](https://vwong.dev/attachmen
 Outside of work, I have worked on projects in a variety of languages including:
 - Rust: [CubeSimRS](https://github.com/vwcwong/CubeSimRS), [ToyWebRS](https://github.com/vwcwong/toywebrs), and [Relational Algebra Evaluator](https://github.com/vwcwong/ra-evaluator).
 - Python: [CubeSimPy](https://github.com/vwcwong/CubeSim) and [LZ78 Encoder](https://github.com/vwcwong/MATH3411/blob/master/LZ78.py).
-- JavaScript/TypeScript: [Huffman Visualiser](https://vwong.dev/Huffman-Encoding/), [LinkUp Events](https://linkupevents.com/), and [Canto Toolbox](https://github.com/vwcwong/canto-toolbox).
+- JavaScript/TypeScript: [Huffman Visualiser](https://vwong.dev/Huffman-Encoding/), [LinkUp Events](https://linkupevents.com/), and [Canto Toolbox](https://github.com/VWongDev/canto-toolbox).
 
 When not coding, I like to [speedcube](https://www.worldcubeassociation.org/persons/2014WONG08) and have held [national championship podiums](https://www.worldcubeassociation.org/persons/2014WONG08?tab=championship-podiums).
