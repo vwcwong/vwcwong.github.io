@@ -17,15 +17,13 @@
 
 // Hero h1 — larger greeting
 .page-content h1:first-of-type {
-    font-size: 1.6rem;
+    font-size: 1.75rem;
 }
 
-// Section headings — subtle label treatment
+// Section headings
 .page-content h2 {
     font-size: 1.1rem;
     font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--text-color-muted);
+    color: var(--heading-color);
 }
 
