@@ -3,6 +3,35 @@
 // Tables, blockquotes, and other components
 // =============================================================================
 
+// Project cards
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0 2rem;
+}
+
+.project-card {
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 1rem 1.1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+
+    .project-card__title {
+        font-weight: 600;
+        font-size: 0.95rem;
+    }
+
+    .project-card__desc {
+        font-size: 0.875rem;
+        color: var(--text-color-muted);
+        line-height: 1.5;
+        margin: 0;
+    }
+}
+
 // Blockquotes
 blockquote {
     color: var(--blockquote-color);
