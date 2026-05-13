@@ -15,3 +15,30 @@
     }
 }
 
+// Hero h1 — larger greeting with a bottom rule
+.page-content h1:first-of-type {
+    font-size: 2rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 2px solid var(--border-color);
+    margin-bottom: 1.5rem;
+}
+
+// Section headings — subtle label treatment
+.page-content h2 {
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-color-muted);
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+}
+
+// Breathing room in lists
+.page-content ul {
+    li {
+        margin-bottom: 0.35rem;
+        line-height: 1.6;
+    }
+}
+
