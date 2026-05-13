@@ -9,6 +9,14 @@
     border-bottom-color: var(--border-color);
 }
 
+.site-avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
 .site-title,
 .site-title:visited {
     color: var(--heading-color);
