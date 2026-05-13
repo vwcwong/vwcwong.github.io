@@ -15,11 +15,9 @@
     }
 }
 
-// Hero h1 — larger greeting with a bottom rule
+// Hero h1 — larger greeting
 .page-content h1:first-of-type {
     font-size: 2rem;
-    padding-bottom: 0.6rem;
-    border-bottom: 2px solid var(--border-color);
     margin-bottom: 1.5rem;
 }
 
