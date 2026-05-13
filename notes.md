@@ -4,7 +4,7 @@ title: Notes
 permalink: /notes
 ---
 
-# 📖 Notes
+# Notes
 
 ## University Notes
 
