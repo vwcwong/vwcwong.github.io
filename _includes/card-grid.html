@@ -1,0 +1,8 @@
+<div class="project-grid">
+  {% for item in include.items %}
+  <div class="project-card">
+    <a href="{{ item.url }}" class="project-card__title">{{ item.title }}</a>
+    <p class="project-card__desc">{{ item.desc }}</p>
+  </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,30 @@
+hobby:
+  - title: CubeSim RS
+    url: https://github.com/V-Wong/CubeSimRS
+    desc: NxN Rubik's Cube solver library written in Rust.
+  - title: LinkUp Events
+    url: https://linkupevents.com
+    desc: Web platform for UNSW events developed with AWS and React.
+  - title: ToyWebRS
+    url: https://github.com/V-Wong/toywebrs
+    desc: Simple multi-threaded web framework written in pure Rust.
+  - title: Relational Algebra Evaluator
+    url: https://github.com/V-Wong/ra-evaluator
+    desc: Generic relational algebra system written in pure Rust.
+  - title: CHIP-8 Emulator
+    url: https://github.com/V-Wong/chip8
+    desc: CHIP-8 virtual machine emulator written in modern C++ using SDL2.
+  - title: CubeSim
+    url: https://github.com/V-Wong/CubeSim
+    desc: 3x3 Rubik's Cube visualiser and solver written in Python with PyGame.
+  - title: Huffman Visualiser
+    url: https://vwong.dev/Huffman-Encoding
+    desc: Algorithm visualisation web app written in Typescript and React.
+
+skills:
+  - title: Frontend Practice
+    url: https://vwong.dev/frontend-practice
+    desc: Implementation of common UI components in React and Tailwind.
+  - title: Kube
+    url: https://github.com/V-Wong/kube
+    desc: IaC and scripts to provision Kubernetes clusters across multiple cloud providers.

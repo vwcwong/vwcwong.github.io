@@ -1,0 +1,32 @@
+university:
+  - title: COMP9315 — Database Systems Implementation
+    url: /notes/COMP9315
+    desc: Detailed examination of techniques used in the implementation of relational databases.
+  - title: COMP3141 — Software System Design and Implementation
+    url: /notes/COMP3141
+    desc: Introduction to software engineering using formal methods and mathematical principles.
+  - title: COMP3891 — Extended Operating Systems
+    url: /notes/COMP3891
+    desc: Deep dive into the implementation of modern operating systems.
+  - title: COMP2511 — Object-Oriented Programming
+    url: /notes/COMP2511
+    desc: Study of the theory and implementation of object-oriented design patterns.
+  - title: COMP3821 — Extended Algorithms and Programming Techniques
+    url: /notes/COMP3821
+    desc: Study of the techniques to design correct and efficient algorithms to solve problems.
+  - title: COMP3311 — Database Systems
+    url: /notes/COMP3311
+    desc: Detailed exploration of the theory and development of database applications.
+
+self_study:
+  - title: DDIA — Designing Data Intensive Applications
+    url: /notes/ddia
+    desc: Comprehensive guide to designing reliable, scalable and evolvable data systems.
+  - title: AWS — Cloud Essentials Learning Plan
+    url: /notes/cloud-essentials
+    desc: Introduction to foundational AWS Cloud concepts.
+
+other:
+  - title: Software Resources
+    url: /notes/software-resources
+    desc: Collection of resources for various software topics.
