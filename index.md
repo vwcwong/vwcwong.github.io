@@ -10,7 +10,7 @@ I'm a software engineer based in Sydney, currently at [Atlassian](https://www.at
 
 ## Experience
 
-- Software Engineer at [Atlassian](https://www.atlassian.com/) (March 2022 - Present).
+- Software Engineer at [Atlassian](https://www.atlassian.com/) (January 2023 - Present).
 - Software Engineer Intern at [IMC Trading](https://www.imc.com/ap/) (December 2021 - February 2022).
 - Software Developer at [Ventia](https://www.ventia.com/) (September 2019 - November 2021).
 
