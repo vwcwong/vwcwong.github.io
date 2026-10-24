@@ -17,16 +17,3 @@ university:
   - title: COMP3311 — Database Systems
     url: /notes/COMP3311
     desc: Detailed exploration of the theory and development of database applications.
-
-self_study:
-  - title: DDIA — Designing Data Intensive Applications
-    url: /notes/ddia
-    desc: Comprehensive guide to designing reliable, scalable and evolvable data systems.
-  - title: AWS — Cloud Essentials Learning Plan
-    url: /notes/cloud-essentials
-    desc: Introduction to foundational AWS Cloud concepts.
-
-other:
-  - title: Software Resources
-    url: /notes/software-resources
-    desc: Collection of resources for various software topics.
