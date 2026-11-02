@@ -2,6 +2,9 @@ hobby:
   - title: CubeSim RS
     url: https://github.com/V-Wong/CubeSimRS
     desc: NxN Rubik's Cube solver library written in Rust.
+  - title: Canto Toolbox
+    url: https://github.com/vwongdev/canto-toolbox
+    desc: Cantonese learning Chrome extension implemented with Claude Code.
   - title: ToyWebRS
     url: https://github.com/V-Wong/toywebrs
     desc: Simple multi-threaded web framework written in pure Rust.
