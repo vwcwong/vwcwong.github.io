@@ -1,13 +1,7 @@
-hobby:
+artisanal:
   - title: CubeSim RS
     url: https://github.com/V-Wong/CubeSimRS
     desc: NxN Rubik's Cube solver library written in Rust.
-  - title: Canto Toolbox (AI-Assisted)
-    url: https://github.com/vwongdev/canto-toolbox
-    desc: Local-only Cantonese-learning Chrome extension written in TypeScript.
-  - title: Obsidian MCP (AI-Assisted)
-    url: https://github.com/vwongdev/obsidian-mcp
-    desc: MCP server for an Obsidian Sync vault written in Rust.
   - title: ToyWebRS
     url: https://github.com/V-Wong/toywebrs
     desc: Simple multi-threaded web framework written in pure Rust.
@@ -23,11 +17,17 @@ hobby:
   - title: Huffman Visualiser
     url: https://vwong.dev/Huffman-Encoding
     desc: Algorithm visualisation web app written in Typescript and React.
-
-skills:
   - title: Frontend Practice
     url: https://vwong.dev/frontend-practice
     desc: Implementation of common UI components in React and Tailwind.
   - title: Kube
     url: https://github.com/vwongdev/kube
     desc: IaC and scripts to provision Kubernetes clusters across multiple cloud providers.
+
+ai_assisted:
+  - title: Canto Toolbox
+    url: https://github.com/vwongdev/canto-toolbox
+    desc: Local-only Cantonese-learning Chrome extension written in TypeScript.
+  - title: Obsidian MCP
+    url: https://github.com/vwongdev/obsidian-mcp
+    desc: MCP server for an Obsidian Sync vault written in Rust.

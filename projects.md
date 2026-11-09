@@ -5,10 +5,10 @@ permalink: /projects
 ---
 # Projects
 
-## Hobby Projects
+## Artisanal Projects
 
-{% include card-grid.html items=site.data.projects.hobby %}
+{% include card-grid.html items=site.data.projects.artisanal %}
 
-## Random Skills Development
+## AI-Assisted Projects
 
-{% include card-grid.html items=site.data.projects.skills %}
+{% include card-grid.html items=site.data.projects.ai_assisted %}
