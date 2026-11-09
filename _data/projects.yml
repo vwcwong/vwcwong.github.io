@@ -5,6 +5,9 @@ hobby:
   - title: Canto Toolbox (AI-Assisted)
     url: https://github.com/vwongdev/canto-toolbox
     desc: Local-only Cantonese-learning Chrome extension written in TypeScript.
+  - title: Obsidian MCP (AI-Assisted)
+    url: https://github.com/vwongdev/obsidian-mcp
+    desc: MCP server for an Obsidian Sync vault written in Rust.
   - title: ToyWebRS
     url: https://github.com/V-Wong/toywebrs
     desc: Simple multi-threaded web framework written in pure Rust.
@@ -26,5 +29,5 @@ skills:
     url: https://vwong.dev/frontend-practice
     desc: Implementation of common UI components in React and Tailwind.
   - title: Kube
-    url: https://github.com/V-Wong/kube
+    url: https://github.com/vwongdev/kube
     desc: IaC and scripts to provision Kubernetes clusters across multiple cloud providers.
