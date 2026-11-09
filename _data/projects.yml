@@ -24,7 +24,7 @@ ai_assisted:
     desc: Local-only Cantonese-learning Chrome extension written in TypeScript.
   - title: Obsidian MCP
     url: https://github.com/vwongdev/obsidian-mcp
-    desc: MCP server for an Obsidian Sync vault written in Rust.
+    desc: MCP server for Obsidian Sync vaults written in Rust.
 
 skills:
   - title: Frontend Practice
