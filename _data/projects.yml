@@ -17,12 +17,6 @@ artisanal:
   - title: Huffman Visualiser
     url: https://vwong.dev/Huffman-Encoding
     desc: Algorithm visualisation web app written in Typescript and React.
-  - title: Frontend Practice
-    url: https://vwong.dev/frontend-practice
-    desc: Implementation of common UI components in React and Tailwind.
-  - title: Kube
-    url: https://github.com/vwongdev/kube
-    desc: IaC and scripts to provision Kubernetes clusters across multiple cloud providers.
 
 ai_assisted:
   - title: Canto Toolbox
@@ -31,3 +25,11 @@ ai_assisted:
   - title: Obsidian MCP
     url: https://github.com/vwongdev/obsidian-mcp
     desc: MCP server for an Obsidian Sync vault written in Rust.
+
+skills:
+  - title: Frontend Practice
+    url: https://vwong.dev/frontend-practice
+    desc: Implementation of common UI components in React and Tailwind.
+  - title: Kube
+    url: https://github.com/vwongdev/kube
+    desc: IaC and scripts to provision Kubernetes clusters across multiple cloud providers.
